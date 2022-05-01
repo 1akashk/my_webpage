@@ -1,0 +1,55 @@
+*,a,div,h3,h1,h2{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.form-control {
+  border-radius: 3px;
+  width: 500px;
+  margin-left: 20px;
+  padding-top: 10px;
+}
+
+.form-group input{
+  width: 600px;
+  padding-left: 20px;
+}
+.form-group{
+  padding-left: 30px;
+}
+ .search{
+  padding-left:10px;
+ border:2px solid white;
+ height: 45px;
+ margin: 0;
+ 
+}
+
+.brand{
+  
+  padding: 15px;
+}
+
+.card-top {
+  position: relative;
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background: #fff;
+  background-clip: border-box;
+  
+  
+}
+
+
+
+.item {
+  margin: 0px 15px;
+  text-align: center;
+}
+
+.item a:hover {
+  color: rgb(49, 149, 255);
+}

@@ -1,0 +1,140 @@
+ /**.logo1{
+    width: 100%;
+    height: auto;
+  }
+ 
+  
+  .clearfix{
+    overflow: auto;
+  }
+  
+  .bg{
+    width: 100%;
+    height: 55vh;
+    background-image:url(../assets/images/clothings.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+  }
+  
+  .product-list{
+       max-width: 100%;
+       margin: 40px;
+       border-radius: 10px;
+       padding-top: 30px;
+       padding-left: 30px;
+       background-color:rgb(240, 240, 240);
+  }
+  
+  .product-box{
+    width: 200px;
+    height: 458px;
+    float: left;
+    margin: 1%;
+    border: 1px solid rgb(208, 208, 208);
+    text-align:center;
+    background-color:lightcyan;
+  }
+  
+  .banner{
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(122, 240, 86) !important;
+    padding: 10%;
+  }
+  
+  .banner h3{
+    color: rgb(237, 165, 70);
+    font-size: 1.4rem;
+  }
+  .banner h1{
+    font-size: 3.5rem;
+    letter-spacing: 5px;
+    font-weight: 500;
+    margin-top: 0;
+  }
+  
+  #img1{
+    width: 100%;
+    height: auto;
+    
+  }
+  .product-box h2
+  {
+    float: left;
+    padding-left: 5%;
+    font-weight: 500;
+    color: #5c92b1;
+    font-size: 1.3rem;
+  }
+  
+  .product-box h3{
+    float: right;
+    padding-right: 5%;
+    color: black;
+  }
+  .product-box p{
+    clear: both;
+    padding: 0 5%;
+    color: grey;
+    font-size: 1rem;
+    line-height: 25px;
+  }
+  
+  .five-star{
+    float: left;
+    font-size: 15px;
+    padding: 10px 2px;
+    color: rgb(230, 151, 6);
+  }
+  
+  .five-star1{
+    margin-left: 5%;
+  }
+  
+  .review{
+    float: right;
+    padding-right: 5% ;
+    color:  rgb(226, 149, 6) !important;
+    margin-top: 4px;
+  } */
+  
+  /* media queries*/
+  /*
+  @media only screen and (max-width:850px){
+    .product-box h2{
+      padding-left: 2%;
+    }
+  
+    .product-box h3{
+      padding-right: 2%;
+    }
+  
+    .product-box p{
+      padding: 2%;
+    }
+  }
+  
+  @media only screen and (max-width:768px){
+    .product-box{
+      width: 45%;
+    }
+    .banner h1{
+     line-height: 1.3;
+    }
+    #img1{
+      width: 100%;
+      height: 65%;
+      
+    }
+  }
+  
+  @media only screen and (max-width:500px){
+    .product-box{
+      width: 85%;
+      margin-top: 20px;
+    }
+  }*/

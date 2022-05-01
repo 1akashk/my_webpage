@@ -1,0 +1,169 @@
+
+  *,h1,h2,h3,h4,h5,h6,p,span,div {font-family: 'Josefin Sans', sans-serif;}
+
+  
+ /** banner**/
+  
+ .bg{
+  width: 100%;
+  height: 55vh;
+  background-image:url('/assets/screens/jean.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  
+}
+
+.banner{
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  color: rgb(122, 240, 86) !important;
+  padding: 10%;
+}
+
+.banner h3{
+  color: rgb(237, 165, 70);
+  font-size: 1.4rem;
+}
+.banner h1{
+  font-size: 3.5rem;
+  letter-spacing: 5px;
+  font-weight: 500;
+  margin-top: 0;
+}
+
+/* banner end*/
+
+/*card */
+.card-top {
+position: relative;
+display: flex;
+flex-direction: column;
+min-width: 0;
+word-wrap: break-word;
+background: #fff;
+background-clip: border-box;
+border: 1px solid rgba(0, 0, 0, 0.2);
+border-radius: .25rem;
+}
+
+.item img {
+width: 64px;
+}
+
+.item {
+margin: 0px 15px;
+text-align: center;
+}
+
+.item a:hover {
+color: blue;
+}
+
+.card {
+padding: 20px;
+margin: 50px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card img {
+width: 250px;
+height: 250px;
+margin-bottom: 15px;
+transition: 0.3s ease-in-out;
+}
+
+.card img:hover {
+transition: 0.3s ease-in-out;
+transform: scale(1.1);
+}
+ /*card end */
+
+/* footer section*/
+
+
+
+footer{
+  padding: 0px;
+  background-color: rgb(33, 33, 89);
+  
+ }
+ .footer-container
+ {
+   padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap-reverse;
+  align-items: center;
+ }
+ 
+ .icons{
+  text-align: left;
+  font-size: 1.5rem;
+  color: aliceblue;
+  margin: 20px 0;
+ 
+ }
+ strong{
+  font-size:20px;
+  font-weight:bold;
+ }
+ #ico{
+  margin-right:40px;
+  font-size: 30px;
+  
+  
+ }
+ 
+ .bi-facebook:hover{
+   color: rgb(13, 105, 252);
+ }
+ 
+ .bi-instagram:hover{
+   color: rgb(246, 82, 22);
+ }
+ .bi-twitter:hover{
+   color: rgb(15, 180, 251);
+ }
+ 
+ .f-head{
+   color: rgba(240, 248, 255, 0.731);
+ }
+ 
+ 
+ #address{
+  padding-top: 20px;
+  font-size: medium;
+  font-weight: 100;
+  color: white;
+ }
+ .left-col{
+  padding-left: 30px;
+ }
+ .right-col{
+ padding-right: 30px;
+ }
+ 
+ .copy-right{
+   background-color: rgb(87, 87, 165);
+   padding: 10px;
+   text-align: center;
+   color:white
+ }
+ .ab{
+   display: flex;
+   float: right;
+ 
+ }
+ .left{
+   margin-right: 40px;
+ }
+ 
+ .contact{
+   font-size:medium;
+ }
+ 
+ 
+ /* footer section end*/
